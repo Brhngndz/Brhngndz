@@ -1,7 +1,12 @@
 🐱‍👤 Hi there this is Burhan GÜNDÜZ,
  My github page is under construction. I will move my local work files to github soon...
-![pngimg com - under_construction_PNG46](https://github.com/Brhngndz/Brhngndz/assets/119003190/67f090e2-73e4-4501-93a1-46512e65b7b4)
----
+
+###
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Brhngndz/Brhngndz/assets/119003190/ab344949-e46e-4545-8882-9e5b165489fd" />
+<br />
+#
+---![pngimg com - under_construction_PNG46](https://github.com/Brhngndz/Brhngndz/assets/119003190/ab344949-e46e-4545-8882-9e5b165489fd)
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
