@@ -2,7 +2,7 @@
  My github page is under construction. I will move my local work files to github soon...
 
 ###
-<img align="left" alt="Java" width="260px" style="padding-right:10px;" src="https://github.com/Brhngndz/Brhngndz/assets/119003190/ab344949-e46e-4545-8882-9e5b165489fd" />
+<img align="left" alt="Java" width="300px" style="padding-right:10px;" src="https://github.com/Brhngndz/Brhngndz/assets/119003190/ab344949-e46e-4545-8882-9e5b165489fd" />
 <br />
 
 
